@@ -1,0 +1,5 @@
+[✔] mkdir myfolder
+[✔] cd myfolder
+[✔] touch hello.txt
+[✔] echo "Hello, Supak is learning Unix!" > hello.txt
+[✔] cat hello.txt
